@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Fullstack Developer | Crafting Solutions with Code</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dwipurnomo" target="_blank">
+  <a href="https://linkedin.com/in/dwi~purnomo" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:dwipurnomo5151@gmail.com" target="_blank">
